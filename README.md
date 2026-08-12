@@ -14,7 +14,7 @@
 
 I build and self-host a constantly-growing arcade of browser games and tools at **[slippylabs.com](https://slippylabs.com)** — everything from action games to a full play-money casino, all running on my own Debian box behind nginx and Cloudflare.
 
-Most of it comes straight out of a lifelong love of games: **[Bowman](https://bowman.slippylabs.com)** is a *Bowmaster Prelude* homage, **[StarBrawl](https://starbrawl.slippylabs.com)** is Melee-inspired, **[Tanks](https://tanks.slippylabs.com)** is a *2DPlay Tanks* homage, and there's a whole **[Emulator Bay](https://emulator.slippylabs.com)** for playing NES/SNES/GBA/Genesis/MAME in the browser.
+Most of it comes straight out of a lifelong love of games: try **[Anglers](https://anglers.slippylabs.com)** for a multiplayer fishing MMO, **[Slime Sports](https://slimesoccer.slippylabs.com)** for soccer/volleyball/basketball/tennis/golf played entirely by slimes, or **[Spore Tamers](https://spores.slippylabs.com)** to catch and battle spore monsters.
 
 - 🎮 Lifelong gamer — most of what I build is a love letter to something I grew up playing
 - 🔭 Currently building — new games and tools for the arcade, pretty much nonstop
