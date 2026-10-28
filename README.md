@@ -14,7 +14,7 @@
 
 I build and self-host a constantly-growing arcade of browser games and tools at **[slippylabs.com](https://slippylabs.com)**: 3D games, action games, a full play-money casino, open-source creative apps and dozens of utilities, all running on my own Debian box behind nginx and Cloudflare.
 
-Most of it comes straight out of a lifelong love of games: try **[Anglers](https://anglers.slippylabs.com)** for a multiplayer fishing MMO, **[Slime Sports](https://slimesoccer.slippylabs.com)** for soccer/volleyball/basketball/tennis/golf played entirely by slimes, or **[Spore Tamers](https://spores.slippylabs.com)** to catch and battle spore monsters.
+Most of it comes straight out of a lifelong love of games, and the most polished of it is in the **[3D Lab](https://3d.slippylabs.com)**: try **[Slippy Cove](https://fishing.slippylabs.com)** to walk a cosy island with friends and catch 30 real fish at their real size, **[Slip Arena](https://arena.slippylabs.com)** for Quake-style rockets, rails and strafe-jumping, or **[Kingsgate](https://kingsgate.slippylabs.com)** to hold a castle against a siege with eight kinds of tower.
 
 - 🎮 Lifelong gamer: most of what I build is a love letter to something I grew up playing
 - 🔭 Currently building: 3D games for the [3D Lab](https://3d.slippylabs.com), pretty much nonstop
