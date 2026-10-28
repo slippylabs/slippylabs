@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+Dev;Tool+Builder;Retro+Gaming+Fan;Self-Hoster;Always+Shipping&font=Fira%20Code&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=460&height=45)](https://github.com/slippylabs)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+Dev;3D+in+the+Browser;Tool+Builder;Retro+Gaming+Fan;Self-Hoster;Always+Shipping&font=Fira%20Code&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=460&height=45)](https://github.com/slippylabs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=slippylabs&label=Profile%20views&color=39FF14&style=flat-square)
 
@@ -12,14 +12,14 @@
 
 ## 💫 About Me
 
-I build and self-host a constantly-growing arcade of browser games and tools at **[slippylabs.com](https://slippylabs.com)** — everything from action games to a full play-money casino, all running on my own Debian box behind nginx and Cloudflare.
+I build and self-host a constantly-growing arcade of browser games and tools at **[slippylabs.com](https://slippylabs.com)**: 3D games, action games, a full play-money casino, open-source creative apps and dozens of utilities, all running on my own Debian box behind nginx and Cloudflare.
 
 Most of it comes straight out of a lifelong love of games: try **[Anglers](https://anglers.slippylabs.com)** for a multiplayer fishing MMO, **[Slime Sports](https://slimesoccer.slippylabs.com)** for soccer/volleyball/basketball/tennis/golf played entirely by slimes, or **[Spore Tamers](https://spores.slippylabs.com)** to catch and battle spore monsters.
 
-- 🎮 Lifelong gamer — most of what I build is a love letter to something I grew up playing
-- 🔭 Currently building — new games and tools for the arcade, pretty much nonstop
-- 🧰 Comfort zone — Python, Flask, Flask-SocketIO, vanilla JS, and a terminal
-- ⚡ Fun fact — 100+ live projects shipped and counting
+- 🎮 Lifelong gamer: most of what I build is a love letter to something I grew up playing
+- 🔭 Currently building: 3D games for the [3D Lab](https://3d.slippylabs.com), pretty much nonstop
+- 🧰 Comfort zone: Python, Flask, Flask-SocketIO, vanilla JS, three.js, and a terminal
+- ⚡ Fun fact: 150+ live sites shipped and counting
 
 ## 🌐 Socials
 
@@ -34,6 +34,8 @@ Most of it comes straight out of a lifelong love of games: try **[Anglers](https
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
+![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%23298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
@@ -47,145 +49,180 @@ Most of it comes straight out of a lifelong love of games: try **[Anglers](https
 
 ## 🛠️ What I'm Building
 
-> Every one of these is live and free right now, nothing to install. Only the ones marked
-> *sign-in required* need an account.
+> Everything below is live and free right now, with nothing to install and no signup needed to play.
 
-### 🎮 Games & Arcade
+### 🧊 3D Lab
+
+The newest wing, all in the browser at **[3d.slippylabs.com](https://3d.slippylabs.com)**. Most of them play online with friends, against bots, or both.
 
 | Game | What it is |
 |---|---|
-| [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers — a *Bowmaster Prelude* homage |
+| [Slip Arena](https://arena.slippylabs.com) | Quake-style arena shooter: rockets, rails, strafe-jumping, deathmatch, CTF and duels |
+| [Slipstream](https://race.slippylabs.com) | Street racing through a city at night: race the grid or run from the police |
+| [Skate Park](https://skate.slippylabs.com) | Skate a 3D city: ollie, flip, grind and stack combos with whoever else is on |
+| [Slip Soccer](https://soccer.slippylabs.com) | Five-a-side in a 3D stadium, vs the computer, couch co-op, or up to four a side online |
+| [Tumble Rush](https://tumble.slippylabs.com) | A wobbly obstacle race for up to 12 beans: jump sweepers, bounce on jelly, dive for the line |
+| [Bean Jam](https://jam.slippylabs.com) | Three-on-three bean basketball: grab the Jam Ball, tackle it loose, double-jump and dunk |
+| [Star Scramble](https://stars.slippylabs.com) | A party board game on a tropical island: roll the dice, race for stars, battle in minigames |
+| [Kingsgate](https://kingsgate.slippylabs.com) | Castle-siege tower defense: eight tower types, relics, meteors, and a Royal Tech Tree |
+| [Kaiju Crush](https://kaiju.slippylabs.com) | Be the giant monster and smash a fully destructible voxel city while the army escalates |
+| [Hellstorm](https://hellstorm.slippylabs.com) | Over-the-top bullet-hell survivor across five worlds of demons and eldritch horrors |
+| [Deepdark](https://deepdark.slippylabs.com) | Co-op dungeon extraction looter: loot the crypt and get out before the Dark Swarm closes in |
+| [Slippy Cove](https://fishing.slippylabs.com) | A cosy social fishing island with 30 real fish at their real size |
+| [SlipLife](https://sliplife.slippylabs.com) | A Sims-style life sim: needs, careers, friends, romance, families and some very silly deaths |
+| [Primordia](https://primordia.slippylabs.com) | Evolve a species from a single cell, build your creature, then lead a tribe |
+| [SlipStudio](https://studio.slippylabs.com) | The three.js workbench these games are built with, plus 12 game-dev tools in its 2D tab |
+
+### 🎮 Games & Arcade
+
+More at the **[Lab](https://lab.slippylabs.com)**.
+
+| Game | What it is |
+|---|---|
+| [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers, a *Bowmaster Prelude* homage |
 | [StarBrawl](https://starbrawl.slippylabs.com) | Melee-inspired 2-player platform fighter |
 | [Tanks](https://tanks.slippylabs.com) | Turn-based artillery duel with destructible terrain, hotseat or online |
-| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO — come build a kingdom |
+| [Raft Riot](https://rafts.slippylabs.com) | Lob a ball across the water and bring their fort down on top of them |
+| [Bomb Brigade](https://bombs.slippylabs.com) | Maze bomber for one to four: a 20-stage campaign, 2v2 battles, bots or online |
+| [Core Driller](https://driller.slippylabs.com) | Tunnel through an asteroid, pump the parasites, drop boulders on the rest |
+| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO: come build a kingdom |
 | [Anglers](https://anglers.slippylabs.com) | Multiplayer side-scrolling fishing MMO across 5 biomes |
 | [Spore Tamers](https://spores.slippylabs.com) | Catch, raise, and battle spore monsters |
+| [AetherQuest](https://quest.slippylabs.com) | High-fantasy turn-based JRPG: 5 classes, elemental combat, dungeons that scale to you |
+| [Slippy Party](https://party.slippylabs.com) | Jackbox-style party games: trivia, bluffing, quips and drawing on your own phones |
 | [Duskwatch](https://duskwatch.slippylabs.com) | *Town of Salem*-style hidden-role social deduction |
-| [Slime Sports](https://slimesoccer.slippylabs.com) | Soccer, volleyball, basketball, tennis & golf — played entirely by slimes |
+| [Nightrail](https://nightrail.slippylabs.com) | A murder-mystery deduction game aboard a night train |
+| [Slime Sports](https://slimesoccer.slippylabs.com) | Soccer, volleyball, basketball, tennis & golf, played entirely by slimes |
 | [Toboggan Run](https://skihill.slippylabs.com) | Race down an endless mountain dodging stumps and logs |
-| [Bean Counter](https://coffees.slippylabs.com) | Catch the coffee beans, dodge the junk, beat your high score |
 | [Bubble Trouble](https://bubbletrouble.slippylabs.com) | Fire a harpoon straight up and split the bouncing bubbles across 20 hand-built stages |
-| [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups — multiball, lasers, catch, bombs and a combo multiplier |
-| [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball — pull the plunger, time the bat, blast gumballs into the outfield pockets |
-| [AetherQuest](https://quest.slippylabs.com) | High-fantasy turn-based JRPG — 5 classes, elemental combat, dungeons that scale to you |
-| [Nightrail](https://nightrail.slippylabs.com) | A murder-mystery deduction game aboard a night train — catch the killer before the next stop |
+| [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups, multiball, lasers and a combo multiplier |
+| [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball: pull the plunger, time the bat, blast gumballs into the pockets |
+| [Bean Counter](https://coffees.slippylabs.com) | Catch the coffee beans, dodge the junk, beat your high score |
 | [Mini Golf](https://minigolf.slippylabs.com) | Nine holes solo against the leaderboard, or live with friends on a room code |
+| [Emulator Bay](https://emulator.slippylabs.com) | NES / SNES / Game Boy / GBA / Genesis / MAME / Atari 2600 homebrew, right in your browser |
 
-### 🎰 Luck Games — play-money casino
+### 🎰 Luck Games: play-money casino
 
-All under one roof at **[gambling.slippylabs.com](https://gambling.slippylabs.com)** — no real money, ever.
+All under one roof at **[gambling.slippylabs.com](https://gambling.slippylabs.com)**. No real money, ever.
 
-Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Chess · Checkers · Hearts · Freecell · Solitaire · Minesweeper · Sudoku
+Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Old Maid · Hearts · Chess · Checkers · Freecell · Solitaire · Minesweeper · Sudoku
 
-### 🗣️ Social
+### 🎨 Art & Craft
 
-| App | What it is |
-|---|---|
-| [SlipCord](https://slipcord.slippylabs.com) | Voice, screen-share, watch-together, and chat, all in one room |
-| [Voice Chat](https://voicechat.slippylabs.com) | Discord-style full-mesh group voice calls, noise-cancelled |
-| [Karaoke](https://karaoke.slippylabs.com) | Solo or multiplayer singing with real pitch scoring |
+- 🖌️ **[Craft Suite](https://crafts.slippylabs.com)**: twelve open-source, desktop-class apps running in your browser via WebAssembly, with their AI features stripped out. Your files stay on your machine.
+  [WordCraft](https://wordcraft.slippylabs.com) (documents) · [GridCraft](https://gridcraft.slippylabs.com) (spreadsheets) · [DeckCraft](https://deckcraft.slippylabs.com) (slides) · [PdfCraft](https://pdfcraft.slippylabs.com) (PDF) · [PhotoCraft](https://photocraft.slippylabs.com) (layered photo editing) · [VectorCraft](https://vectorcraft.slippylabs.com) (vector illustration) · [DesignCraft](https://designcraft.slippylabs.com) (page layout) · [LightCraft](https://lightcraft.slippylabs.com) (raw photo developing) · [EffectCraft](https://effectcraft.slippylabs.com) (motion graphics) · [FilmCraft](https://filmcraft.slippylabs.com) (video editing) · [SoundCraft](https://soundcraft.slippylabs.com) (a full DAW) · [CADCraft](https://cadcraft.slippylabs.com) (2D drafting)
+- 🖼️ **[Art & Photo Tools](https://art.slippylabs.com)**: image editors, photo tools, colour pickers and generative art, all client-side
+- 🏔️ [{Shan, Shui}*](https://shanshui.slippylabs.com): an infinitely scrolling, procedurally generated Chinese landscape painting
 
-### 🎵 Sound Bay & 📺 Media
+### 🎵 Sound Bay
 
-**[music.slippylabs.com](https://music.slippylabs.com)** — a live playable synth, a trap drum machine, and a strummable guitar, all in the browser.
+**[music.slippylabs.com](https://music.slippylabs.com)**: instruments, radio and visuals, all in the browser.
 
-- 🎧 [Spectrum Analyzer](https://spectrum-analyzer.slippylabs.com) — real-time audio spectrum, waveform & note detection
-- 📻 [Music Radio](https://music-radio.slippylabs.com) / [World Talk Radio](https://world-talk-radio.slippylabs.com) — real live streams, no talk / all talk
-- 📺 [Slippy TV](https://slippy-tv.slippylabs.com) — a retro channel-changer for public-domain cartoons & archives
-- 🎛️ [SlipDAW](https://daw.slippylabs.com) — a full DAW in the browser: channel rack, piano roll, playlist, mixer, 17 effects, bounce to WAV
-- 🎚️ [SlipDJ](https://dj.slippylabs.com) — two turntables and a mixer, with real scratching, beatgrids, sync, hot cues and a master recorder
-- 🌀 [Milkdrop Visualizer](https://visualizer.slippylabs.com) — projectM 4 compiled to WebAssembly, 200 presets, driven live by your mic or an audio file
-- 🎶 [Jukebox](https://jukebox.slippylabs.com) — the whole music library in one place, with shared playlists *(sign-in required)*
-- 🕹️ [Emulator Bay](https://emulator.slippylabs.com) — NES / SNES / GBA / Genesis / MAME cores, right in your browser
+- 🎹 [Synth](https://synth.slippylabs.com) · 🥁 [Trap Machine](https://drums.slippylabs.com) · 🎸 [Air Guitar](https://guitar.slippylabs.com): playable instruments with your keyboard and mouse
+- 🎚️ [SlipDJ](https://dj.slippylabs.com): two turntables and a mixer, with real scratching, beatgrids, sync, hot cues and a master recorder
+- 🌀 [Milkdrop Visualizer](https://visualizer.slippylabs.com): projectM 4 compiled to WebAssembly, 200 presets, driven live by your mic or an audio file
+- 🎧 [Spectrum Analyzer](https://spectrum-analyzer.slippylabs.com): real-time audio spectrum, waveform & note detection
+- 📻 [Music Radio](https://music-radio.slippylabs.com) / [World Talk Radio](https://world-talk-radio.slippylabs.com): real live streams, no talk / all talk
 
-### 📡 Live Data & Bigger Tools
+### 📡 Apps & Live Data
 
 | Project | What it is |
 |---|---|
-| [Mission Control](https://mission.slippylabs.com) | The next launch with a live countdown, a day/night terminator map, everyone currently in space, and a night-sky star tracker |
-| [Weather Outlook](https://weather.slippylabs.com) | Consensus forecast for anywhere on Earth — nine sources averaged, with the spread shown so you can see when they disagree |
-| [Calendar](https://calendar.slippylabs.com) | Month, week and day views, repeating events, holidays and moon phases, .ics import/export — saved in your browser |
-| [Woodworking Plans](https://woodworking.slippylabs.com) | Eight parametric builds — set the size you want and the drawings, cut list and shopping list all recompute |
-| [Image to Vector](https://image-to-vector.slippylabs.com) | Trace a raster image into real scalable geometry and export SVG, EPS or DXF |
-| [PDF Editor](https://pdf-editor.slippylabs.com) | Sign, annotate, reorder and merge PDFs — real embedded PDF objects, entirely in the browser |
-| [Email Generator & Checker](https://email-generator.slippylabs.com) | Bulk test addresses, every corporate username variant of a name, and a checker that spots domains which cannot receive mail at all |
+| [Mission Control](https://mission.slippylabs.com) | The next launch with a live countdown, a day/night terminator map, and everyone currently in space |
+| [Weather Outlook](https://weather.slippylabs.com) | Consensus forecast for anywhere on Earth: nine sources averaged, with the spread shown |
+| [Calendar](https://calendar.slippylabs.com) | Month, week and day views, repeating events and .ics import/export, saved in your browser |
+| [LibreLingo](https://lingo.slippylabs.com) | Free language lessons that teach before they test: 24 courses, no account |
+| [openGym](https://fit.slippylabs.com) | A free gym and fitness tracker: plans, a guided workout logger, progression and streaks |
+| [Daggerfall Quest Guide](https://daggerfall.slippylabs.com) | Companion for Daggerfall: find the places your journal names, quest walkthroughs, town maps |
+| [Woodworking Plans](https://woodworking.slippylabs.com) | Parametric builds: set the size and the drawings, cut list and shopping list recompute |
+| [Email Generator & Checker](https://email-generator.slippylabs.com) | Bulk test addresses, username variants, and a checker for domains that can't receive mail |
 
 ### 🛠️ Dev Tools & Utilities
 
-The **[Dev Tools Hub](https://projects.slippylabs.com)** has 30+ free, client-side utilities — nothing ever leaves your browser. A few favorites:
+The **[Projects Hub](https://projects.slippylabs.com)** has 30+ free, client-side utilities, and nothing ever leaves your browser. A few favorites:
 
 | Tool | What it does |
 |---|---|
 | [Regex Visualizer](https://regex-visualizer.slippylabs.com) | Compiles a regex into a Thompson NFA and animates a test string through it |
 | [Maze Solver](https://maze-solver.slippylabs.com) | Generates mazes and races BFS, Dijkstra, A* and greedy best-first search to solve them |
 | [Path Tracer](https://path-tracer.slippylabs.com) | Progressive Monte Carlo path tracer running in a Web Worker |
-| [JWT Decoder](https://jwt-decoder.slippylabs.com) | Decodes and locally verifies JSON Web Tokens |
-| [SQL Formatter](https://sql-formatter.slippylabs.com) | Clause-aware SQL formatting that never rewrites your literals |
-| [Favicon Generator](https://favicon-generator.slippylabs.com) | Hand-written multi-resolution ICO encoder, no libraries |
+| [Logic Minimizer](https://logic-minimizer.slippylabs.com) | Exact smallest SOP/POS for a Boolean function, with a live Karnaugh map |
+| [Float Inspector](https://float-inspector.slippylabs.com) | Every bit of an IEEE 754 float, its exact decimal value and its rounding error |
+| [Protobuf Decoder](https://protobuf-decoder.slippylabs.com) | Decodes raw protobuf without the .proto and infers a schema |
 
 <details>
-<summary>+ 29 more tools →</summary>
+<summary>+ 28 more tools →</summary>
 <br>
 
-- [ASCII Art Converter](https://ascii-art.slippylabs.com)
 - [Barcode Generator](https://barcode-generator.slippylabs.com)
 - [Base64 / URL Encoder](https://base64-url-encoder.slippylabs.com)
+- [Bitwise Playground](https://bitwise-playground.slippylabs.com)
 - [Calculator](https://calculator.slippylabs.com)
+- [Cellular Automata Lab](https://life-lab.slippylabs.com)
 - [CIDR & Subnet Calculator](https://cidr-calculator.slippylabs.com)
-- [Color Palette Generator](https://color-palette-generator.slippylabs.com)
-- [Data Format Converter](https://format-converter.slippylabs.com)
-- [Contrast Checker](https://contrast-checker.slippylabs.com)
 - [Cron Expression Explainer](https://cron-expression.slippylabs.com)
-- [CSS Gradient & Shadow Playground](https://css-playground.slippylabs.com)
-- [EXIF Viewer & Stripper](https://exif-viewer.slippylabs.com)
-- [Image Resizer](https://image-resizer.slippylabs.com)
+- [Data Format Converter](https://format-converter.slippylabs.com)
 - [JSON Formatter](https://json-formatter.slippylabs.com)
+- [JWT Decoder](https://jwt-decoder.slippylabs.com)
 - [Loan & Interest Calculator](https://loan-calculator.slippylabs.com)
 - [Markdown Previewer](https://markdown-preview.slippylabs.com)
-- [Meme Generator](https://meme-generator.slippylabs.com)
+- [Orbit Lab](https://orbit-lab.slippylabs.com)
 - [Password Generator](https://password-generator.slippylabs.com)
 - [QR Code Generator](https://qr-code-generator.slippylabs.com)
 - [Regex Tester](https://regex-tester.slippylabs.com)
+- [SQL Formatter](https://sql-formatter.slippylabs.com)
 - [Stopwatch & Timer](https://stopwatch.slippylabs.com)
 - [Text Diff Checker](https://text-diff-checker.slippylabs.com)
-- [TLS Certificate Decoder](https://cert-decoder.slippylabs.com)
 - [Tip Calculator](https://tip-calculator.slippylabs.com)
+- [TLS Certificate Decoder](https://cert-decoder.slippylabs.com)
 - [Unicode Inspector](https://unicode-inspector.slippylabs.com)
 - [Unit Converter](https://unit-converter.slippylabs.com)
 - [Unix Timestamp Converter](https://unix-timestamp-converter.slippylabs.com)
 - [UUID & Hash Generator](https://uuid-hash-generator.slippylabs.com)
-- [Video to GIF](https://video-to-gif.slippylabs.com)
+- [Voronoi & Delaunay Lab](https://voronoi-lab.slippylabs.com)
 - [Word & Character Counter](https://word-counter.slippylabs.com)
+- [World Clock & Meeting Planner](https://world-clock.slippylabs.com)
 
 </details>
 
 ## 📂 Source
 
-Source for the public ones. Each is a static site with no build step and no package
-manager — clone it, open `index.html`, and that is the whole thing.
+Source for the public ones. The tools are static sites with no build step and no package
+manager: clone one, open `index.html`, and that is the whole thing.
 
 **Apps & bigger builds**
 
 - [Audio Spectrum Analyzer](https://github.com/slippylabs/spectrum-analyzer.slippylabs.com)
-- [Image to Vector Converter](https://github.com/slippylabs/image-to-vector.slippylabs.com)
+- [Cellular Automata Lab](https://github.com/slippylabs/life-lab.slippylabs.com)
+- [Fractal Explorer](https://github.com/slippylabs/fractal-explorer.slippylabs.com)
+- [Image Dithering Studio](https://github.com/slippylabs/dither-studio.slippylabs.com)
+- [Image Format Lab](https://github.com/slippylabs/image-format-lab.slippylabs.com)
+- [L-System Turtle](https://github.com/slippylabs/l-system.slippylabs.com)
+- [Logic Minimizer & K-Map](https://github.com/slippylabs/logic-minimizer.slippylabs.com)
 - [Maze Generator & Pathfinder](https://github.com/slippylabs/maze-solver.slippylabs.com)
 - [Music Radio](https://github.com/slippylabs/music-radio.slippylabs.com)
+- [Orbit Lab](https://github.com/slippylabs/orbit-lab.slippylabs.com)
 - [Path Tracer](https://github.com/slippylabs/path-tracer.slippylabs.com)
-- [PDF Editor & Signature Signer](https://github.com/slippylabs/pdf-editor.slippylabs.com)
 - [Regex NFA Visualizer](https://github.com/slippylabs/regex-visualizer.slippylabs.com)
-- [SlipDAW](https://github.com/slippylabs/daw.slippylabs.com)
+- [Voronoi & Delaunay Lab](https://github.com/slippylabs/voronoi-lab.slippylabs.com)
 - [Woodworking Plans](https://github.com/slippylabs/woodworking.slippylabs.com)
 - [World Talk Radio](https://github.com/slippylabs/world-talk-radio.slippylabs.com)
+- [Craft Suite](https://github.com/slippylabs/craftsuite): the hosting glue and AI-removal patches
+- [LibreLingo (Slippy Labs fork)](https://github.com/slippylabs/lingo)
+- [Mission Control](https://github.com/slippylabs/mission-dashboard)
+- [Weather Outlook](https://github.com/slippylabs/Weather-tracker)
 
 <details>
-<summary>+ 24 single-page tools →</summary>
+<summary>+ 28 single-page tools →</summary>
 <br>
 
+- [Bitwise Playground](https://github.com/slippylabs/bitwise-playground.slippylabs.com)
 - [Calculator](https://github.com/slippylabs/calculator.slippylabs.com)
 - [CIDR & Subnet Calculator](https://github.com/slippylabs/cidr-calculator.slippylabs.com)
 - [Data Format Converter](https://github.com/slippylabs/format-converter.slippylabs.com)
 - [EXIF Viewer & Metadata Stripper](https://github.com/slippylabs/exif-viewer.slippylabs.com)
 - [Favicon Generator](https://github.com/slippylabs/favicon-generator.slippylabs.com)
+- [IEEE 754 Float Inspector](https://github.com/slippylabs/float-inspector.slippylabs.com)
 - [Image Resizer](https://github.com/slippylabs/image-resizer.slippylabs.com)
 - [JSON Formatter](https://github.com/slippylabs/json-formatter.slippylabs.com)
 - [JWT Decoder](https://github.com/slippylabs/jwt-decoder.slippylabs.com)
@@ -193,6 +230,7 @@ manager — clone it, open `index.html`, and that is the whole thing.
 - [Markdown Previewer](https://github.com/slippylabs/markdown-preview.slippylabs.com)
 - [Meme Generator](https://github.com/slippylabs/meme-generator.slippylabs.com)
 - [Password Generator](https://github.com/slippylabs/password-generator.slippylabs.com)
+- [Protobuf Wire Decoder](https://github.com/slippylabs/protobuf-decoder.slippylabs.com)
 - [QR Code Generator](https://github.com/slippylabs/qr-code-generator.slippylabs.com)
 - [Regex Tester](https://github.com/slippylabs/regex-tester.slippylabs.com)
 - [SQL Formatter](https://github.com/slippylabs/sql-formatter.slippylabs.com)
@@ -205,6 +243,49 @@ manager — clone it, open `index.html`, and that is the whole thing.
 - [Unix Timestamp Converter](https://github.com/slippylabs/unix-timestamp-converter.slippylabs.com)
 - [UUID & Hash Generator](https://github.com/slippylabs/uuid-hash-generator.slippylabs.com)
 - [Word & Character Counter](https://github.com/slippylabs/word-counter.slippylabs.com)
+- [World Clock & Meeting Planner](https://github.com/slippylabs/world-clock.slippylabs.com)
+
+</details>
+
+<details>
+<summary>+ 12 game-dev tools (the ones inside SlipStudio) →</summary>
+<br>
+
+- [Collision Lab](https://github.com/slippylabs/collision-lab.slippylabs.com)
+- [Dungeon Generator](https://github.com/slippylabs/dungeon-generator.slippylabs.com)
+- [Easing & Tween Lab](https://github.com/slippylabs/easing-lab.slippylabs.com)
+- [Jump & Gravity Tuner](https://github.com/slippylabs/jump-tuner.slippylabs.com)
+- [Loot & Drop Lab](https://github.com/slippylabs/loot-lab.slippylabs.com)
+- [Noise Lab](https://github.com/slippylabs/noise-lab.slippylabs.com)
+- [Normal Map Lab](https://github.com/slippylabs/normal-map-lab.slippylabs.com)
+- [Particle Forge](https://github.com/slippylabs/particle-forge.slippylabs.com)
+- [Retro SFX Forge](https://github.com/slippylabs/sfx-forge.slippylabs.com)
+- [Shader Sandbox](https://github.com/slippylabs/shader-sandbox.slippylabs.com)
+- [Sprite Sheet Packer](https://github.com/slippylabs/sprite-sheet-packer.slippylabs.com)
+- [Tilemap Studio](https://github.com/slippylabs/tilemap-studio.slippylabs.com)
+
+</details>
+
+<details>
+<summary>+ 4 forks →</summary>
+<br>
+
+- [openGym](https://github.com/slippylabs/opengym): runs fit.slippylabs.com
+- [projectM](https://github.com/slippylabs/projectm): runs the Milkdrop Visualizer
+- [web-synth](https://github.com/slippylabs/web-synth): a browser DAW and synthesis platform
+- [{Shan, Shui}*](https://github.com/slippylabs/shan-shui-inf): runs shanshui.slippylabs.com
+
+</details>
+
+<details>
+<summary>+ 5 archived (replaced by the Craft Suite and openGym) →</summary>
+<br>
+
+- [Image to Vector Converter](https://github.com/slippylabs/image-to-vector.slippylabs.com)
+- [PDF Editor & Signature Signer](https://github.com/slippylabs/pdf-editor.slippylabs.com)
+- [SlipDAW](https://github.com/slippylabs/daw.slippylabs.com)
+- [SlipFit](https://github.com/slippylabs/fit.slippylabs.com)
+- [SlipShop](https://github.com/slippylabs/slipshop.slippylabs.com)
 
 </details>
 
