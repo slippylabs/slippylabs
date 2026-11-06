@@ -80,24 +80,15 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 
 | Game | What it is |
 |---|---|
-| [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers, a *Bowmaster Prelude* homage |
-| [StarBrawl](https://starbrawl.slippylabs.com) | Melee-inspired 2-player platform fighter |
 | [Tanks](https://tanks.slippylabs.com) | Turn-based artillery duel with destructible terrain, hotseat or online |
-| [Raft Riot](https://rafts.slippylabs.com) | Lob a ball across the water and bring their fort down on top of them |
 | [Bomb Brigade](https://bombs.slippylabs.com) | Maze bomber for one to four: a 20-stage campaign, 2v2 battles, bots or online |
 | [Core Driller](https://driller.slippylabs.com) | Tunnel through an asteroid, pump the parasites, drop boulders on the rest |
-| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO: come build a kingdom |
 | [Spore Tamers](https://spores.slippylabs.com) | Catch, raise, and battle spore monsters |
-| [AetherQuest](https://quest.slippylabs.com) | High-fantasy turn-based JRPG: 5 classes, elemental combat, dungeons that scale to you |
 | [Slippy Party](https://party.slippylabs.com) | Jackbox-style party games: trivia, bluffing, quips and drawing on your own phones |
-| [Duskwatch](https://duskwatch.slippylabs.com) | *Town of Salem*-style hidden-role social deduction |
-| [Nightrail](https://nightrail.slippylabs.com) | A murder-mystery deduction game aboard a night train |
 | [Slime Sports](https://slimesoccer.slippylabs.com) | Soccer, volleyball, basketball, tennis & golf, played entirely by slimes |
-| [Toboggan Run](https://skihill.slippylabs.com) | Race down an endless mountain dodging stumps and logs |
 | [Bubble Trouble](https://bubbletrouble.slippylabs.com) | Fire a harpoon straight up and split the bouncing bubbles across 20 hand-built stages |
 | [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups, multiball, lasers and a combo multiplier |
 | [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball: pull the plunger, time the bat, blast gumballs into the pockets |
-| [Bean Counter](https://coffees.slippylabs.com) | Catch the coffee beans, dodge the junk, beat your high score |
 | [Emulator Bay](https://emulator.slippylabs.com) | NES / SNES / Game Boy / GBA / Genesis / MAME / Atari 2600 homebrew, right in your browser |
 
 ### 🎰 Luck Games: play-money casino
