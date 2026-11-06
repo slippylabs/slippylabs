@@ -68,7 +68,6 @@ The newest wing, all in the browser at **[3d.slippylabs.com](https://3d.slippyla
 | [Kingsgate](https://kingsgate.slippylabs.com) | Castle-siege tower defense: eight tower types, relics, meteors, and a Royal Tech Tree |
 | [Kaiju Crush](https://kaiju.slippylabs.com) | Be the giant monster and smash a fully destructible voxel city while the army escalates |
 | [Hellstorm](https://hellstorm.slippylabs.com) | Over-the-top bullet-hell survivor across five worlds of demons and eldritch horrors |
-| [Deepdark](https://deepdark.slippylabs.com) | Co-op dungeon extraction looter: loot the crypt and get out before the Dark Swarm closes in |
 | [Slippy Cove](https://fishing.slippylabs.com) | A cosy social fishing island with 30 real fish at their real size |
 | [SlipLife](https://sliplife.slippylabs.com) | A Sims-style life sim: needs, careers, friends, romance, families and some very silly deaths |
 | [Primordia](https://primordia.slippylabs.com) | Evolve a species from a single cell, build your creature, then lead a tribe |
