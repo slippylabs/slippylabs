@@ -122,7 +122,6 @@ Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · 
 | [Calendar](https://calendar.slippylabs.com) | Month, week and day views, repeating events and .ics import/export, saved in your browser |
 | [LibreLingo](https://lingo.slippylabs.com) | Free language lessons that teach before they test: 24 courses, no account |
 | [openGym](https://fit.slippylabs.com) | A free gym and fitness tracker: plans, a guided workout logger, progression and streaks |
-| [Daggerfall Quest Guide](https://daggerfall.slippylabs.com) | Companion for Daggerfall: find the places your journal names, quest walkthroughs, town maps |
 | [Woodworking Plans](https://woodworking.slippylabs.com) | Parametric builds: set the size and the drawings, cut list and shopping list recompute |
 | [Email Generator & Checker](https://email-generator.slippylabs.com) | Bulk test addresses, username variants, and a checker for domains that can't receive mail |
 
