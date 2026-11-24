@@ -64,6 +64,7 @@ The newest wing, all in the browser at **[3d.slippylabs.com](https://3d.slippyla
 | [Tumble Rush](https://tumble.slippylabs.com) | A wobbly obstacle race for up to 12 beans: jump sweepers, bounce on jelly, dive for the line |
 | [Bean Jam](https://jam.slippylabs.com) | Three-on-three bean basketball: grab the Jam Ball, tackle it loose, double-jump and dunk |
 | [Putt Party](https://putt.slippylabs.com) | Minigolf with up to 12 friends, everyone putting at once: a pirate cove and a haunted manor |
+| [Corner Pocket](https://pool.slippylabs.com) | 8-ball pool on a 3D table with real spin: play a bot, pass and play, or a friend online |
 | [Star Scramble](https://stars.slippylabs.com) | A party board game on a tropical island: roll the dice, race for stars, battle in minigames |
 | [Kingsgate](https://kingsgate.slippylabs.com) | Castle-siege tower defense: eight tower types, relics, meteors, and a Royal Tech Tree |
 | [Kaiju Crush](https://kaiju.slippylabs.com) | Be the giant monster and smash a fully destructible voxel city while the army escalates |
