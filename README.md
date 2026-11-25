@@ -92,7 +92,6 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 | [Bubble Trouble](https://bubbletrouble.slippylabs.com) | Fire a harpoon straight up and split the bouncing bubbles across 20 hand-built stages |
 | [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups, multiball, lasers and a combo multiplier |
 | [Bubble Blast](https://bubbles.slippylabs.com) | Aim, bank off the walls and pop three of a colour: endless mode for the leaderboard plus twenty puzzle levels |
-| [Mahjong](https://mahjong.slippylabs.com) | Mahjong Solitaire: clear a 144-tile stack in matching pairs across five layouts, and every deal can be won |
 | [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball: pull the plunger, time the bat, blast gumballs into the pockets |
 | [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers, a *Bowmaster Prelude* homage |
 | [Emulator Bay](https://emulator.slippylabs.com) | NES / SNES / Game Boy / GBA / Genesis / MAME / Atari 2600 homebrew, right in your browser |
@@ -101,7 +100,7 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 
 All under one roof at **[gambling.slippylabs.com](https://gambling.slippylabs.com)**. No real money, ever.
 
-Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Old Maid · Hearts · Chess · Checkers · Freecell · Solitaire · Minesweeper · Sudoku
+Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Old Maid · Hearts · Chess · Checkers · Freecell · Solitaire · Minesweeper · Sudoku · Mahjong
 
 ### 🎨 Art & Craft
 
