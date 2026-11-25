@@ -82,15 +82,18 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 | Game | What it is |
 |---|---|
 | [Tanks](https://tanks.slippylabs.com) | Turn-based artillery duel with destructible terrain, hotseat or online |
+| [Raft Riot](https://rafts.slippylabs.com) | Lob a ball across the water and bring their fort down on top of them |
 | [Bomb Brigade](https://bombs.slippylabs.com) | Maze bomber for one to four: a 20-stage campaign, 2v2 battles, bots or online |
 | [Core Driller](https://driller.slippylabs.com) | Tunnel through an asteroid, pump the parasites, drop boulders on the rest |
 | [Spore Tamers](https://spores.slippylabs.com) | Catch, raise, and battle spore monsters |
+| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO: twelve skills, quests and dungeon bosses in an open world that keeps your progress |
 | [Slippy Party](https://party.slippylabs.com) | Jackbox-style party games: trivia, bluffing, quips and drawing on your own phones |
 | [Slime Sports](https://slimesoccer.slippylabs.com) | Soccer, volleyball, basketball, tennis & golf, played entirely by slimes |
 | [Bubble Trouble](https://bubbletrouble.slippylabs.com) | Fire a harpoon straight up and split the bouncing bubbles across 20 hand-built stages |
 | [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups, multiball, lasers and a combo multiplier |
 | [Bubble Blast](https://bubbles.slippylabs.com) | Aim, bank off the walls and pop three of a colour: endless mode for the leaderboard plus twenty puzzle levels |
 | [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball: pull the plunger, time the bat, blast gumballs into the pockets |
+| [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers, a *Bowmaster Prelude* homage |
 | [Emulator Bay](https://emulator.slippylabs.com) | NES / SNES / Game Boy / GBA / Genesis / MAME / Atari 2600 homebrew, right in your browser |
 
 ### 🎰 Luck Games: play-money casino
