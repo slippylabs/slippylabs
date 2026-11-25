@@ -86,7 +86,7 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 | [Bomb Brigade](https://bombs.slippylabs.com) | Maze bomber for one to four: a 20-stage campaign, 2v2 battles, bots or online |
 | [Core Driller](https://driller.slippylabs.com) | Tunnel through an asteroid, pump the parasites, drop boulders on the rest |
 | [Spore Tamers](https://spores.slippylabs.com) | Catch, raise, and battle spore monsters |
-| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO: twelve skills, quests and dungeon bosses in an open world that keeps your progress |
+| [Kingsreach](https://medievalmmos.slippylabs.com) | Medieval MMO: fourteen skills, quests and dungeon bosses in an open world that keeps your progress |
 | [Slippy Party](https://party.slippylabs.com) | Jackbox-style party games: trivia, bluffing, quips and drawing on your own phones |
 | [Slime Sports](https://slimesoccer.slippylabs.com) | Soccer, volleyball, basketball, tennis & golf, played entirely by slimes |
 | [Bubble Trouble](https://bubbletrouble.slippylabs.com) | Fire a harpoon straight up and split the bouncing bubbles across 20 hand-built stages |
