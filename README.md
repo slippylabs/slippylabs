@@ -101,7 +101,7 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 
 All under one roof at **[gambling.slippylabs.com](https://gambling.slippylabs.com)**. No real money, ever.
 
-Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Old Maid · Hearts · Chess · Checkers · Freecell · Solitaire · Minesweeper · Sudoku · Mahjong · Chinese Checkers · Connect 4 · Mancala · Go · Tic-Tac-Toe
+Blackjack · Poker · Roulette · Craps · Baccarat · Slots · Horse Racing · Pachinko · Bingo · 500 Rum · Crazy Eights · Old Maid · Hearts · Chess · Checkers · Freecell · Solitaire · Minesweeper · Sudoku · Mahjong · Chinese Checkers · Connect 4 · Mancala · Go · Tic-Tac-Toe · Broadsides
 
 ### 🎨 Art & Craft
 
