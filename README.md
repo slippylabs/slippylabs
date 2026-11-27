@@ -94,6 +94,7 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 | [Brick Breaker](https://brickbreaker.slippylabs.com) | Twelve brick fields, six powerups, multiball, lasers and a combo multiplier |
 | [Bubble Blast](https://bubbles.slippylabs.com) | Aim, bank off the walls and pop three of a colour: endless mode for the leaderboard plus twenty puzzle levels |
 | [Girder Panic](https://girders.slippylabs.com) | Arcade cabinet climber: hop rolling drums, ride lifts and pull the pins to shut down BOLT-9000 |
+| [Neon Tilt](https://pinball.slippylabs.com) | Cyberpunk pinball: crack the ICE, lock three balls for a System Crash multiball and pull five heists to breach the core |
 | [Gumball Slugger](https://slugger.slippylabs.com) | Baseball pinball: pull the plunger, time the bat, blast gumballs into the pockets |
 | [Bowman](https://bowman.slippylabs.com) | Pull back and loose arrows at waves of marching soldiers, a *Bowmaster Prelude* homage |
 | [Emulator Bay](https://emulator.slippylabs.com) | NES / SNES / Game Boy / GBA / Genesis / MAME / Atari 2600 homebrew, right in your browser |
