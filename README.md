@@ -82,7 +82,7 @@ More at the **[Lab](https://lab.slippylabs.com)**.
 | Game | What it is |
 |---|---|
 | [Tanks](https://tanks.slippylabs.com) | Turn-based artillery duel with destructible terrain, hotseat or online |
-| [Raft Riot](https://rafts.slippylabs.com) | Lob a ball across the water and bring their fort down on top of them |
+| [Topple Keep](https://rafts.slippylabs.com) | A slingshot siege: knock goblin castles down into shattering rubble |
 | [Bomb Brigade](https://bombs.slippylabs.com) | Maze bomber for one to four: a 20-stage campaign, 2v2 battles, bots or online |
 | [Core Driller](https://driller.slippylabs.com) | Tunnel through an asteroid, pump the parasites, drop boulders on the rest |
 | [Spore Tamers](https://spores.slippylabs.com) | Catch, raise, and battle spore monsters |
